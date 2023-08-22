@@ -32,6 +32,8 @@ Termux: bash install.sh
 
 Linux (Debian): sudo bash install.sh
 
+Linux (Gentoo): sudo ./gentoo_install.sh (please remove "pipx" from the "mask" category before installation)
+
 Black Arch Linux: sudo bash install_arch.sh
 ```
 ```bash
@@ -45,6 +47,8 @@ python3 dox_en.py
 ```
 # Testeado en
 • Linux (Debian): ✔
+
+• Linux (Gentoo): ✔
 
 • Termux: ✔
 
@@ -87,6 +91,8 @@ Termux: bash install.sh
 
 Linux (Debian): sudo bash install.sh
 
+Linux (Gentoo): sudo ./gentoo_install.sh
+
 Black Arch Linux: sudo bash install_arch.sh
 ```
 ```bash
@@ -101,6 +107,8 @@ python3 dox_en.py
 
 # Tested in
 • Linux (Debian): ✔
+
+• Linux (Gentoo): ✔
 
 • Termux: ✔
 
