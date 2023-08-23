@@ -17,6 +17,7 @@
 
 # Instalacion
 ```bash
+sudo emerge -aqv acct-user/git
 apt install git -y
 ```
 ```bash
